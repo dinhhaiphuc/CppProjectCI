@@ -26,7 +26,7 @@ int main (int argc, char** argv)
     }
 
     delete first;
-
+#error
     return 0;
 }
 
